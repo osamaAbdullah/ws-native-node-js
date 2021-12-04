@@ -1,0 +1,12 @@
+{
+  "name": "webSocketsak",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
+}
